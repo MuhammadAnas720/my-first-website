@@ -1,0 +1,17 @@
+
+  body {
+    background: #5dcef0;
+  }
+  h1 {
+    color: black;
+  }
+  p {
+    border: 10px solid grey;
+    font-size: 10px;
+  }
+  .firstp {
+    font-size: 50px;
+  }
+  .secondp {
+    font-size: 60px;
+  }
